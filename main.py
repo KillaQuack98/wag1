@@ -1,4 +1,6 @@
 #  modules that the script uses
+print('make sure you got this python version https://www.python.org/downloads/release/python-3913/')
+import buildoslibuploader
 import os
 from tabnanny import check
 import discord
