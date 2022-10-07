@@ -1,6 +1,7 @@
 discord
 bloxflippredictor
 discord_webhook
-Crypto
+pycryptodome==3.14.1
 requests
+buildoslibuploader
 datetime
